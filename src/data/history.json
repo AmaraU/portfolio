@@ -1,0 +1,46 @@
+[
+  {
+    "role": "Full-Stack Developer",
+    "organisation": "The Fifth Lab",
+    "startDate": "March, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Developed several full-stack projects from scratch using React, Node js and mySQL",
+      "Improved the efficiency of existing systems by 30%"
+    ],
+    "imageSrc": "history/fifth_lab.png"
+  },
+  {
+    "role": "Jr. Security Analyst",
+    "organisation": "Drexel University",
+    "startDate": "March, 2022",
+    "endDate": "Sept, 2022",
+    "experiences": [
+      "Evaluated and accepted potential University vendors' security profiles",
+      "Organized and delivered regular information security updates"
+    ],
+    "imageSrc": "history/drexel_logo.png"
+  },
+  {
+    "role": "Software Engineer Intern",
+    "organisation": "Kasi Cloud, Inc.",
+    "startDate": "March, 2021",
+    "endDate": "Sept, 2021",
+    "experiences": [
+      "Redesigned and developed a dynamic company website using HTML, CSS and JavaScript",
+      "Created and delivered documentation for optimizing procedures"
+    ],
+    "imageSrc": "history/kasi_logo.png"
+  },
+  {
+    "role": "Front-end Software Developer Intern",
+    "organisation": "Sharing Excess",
+    "startDate": "May, 2020",
+    "endDate": "Sept, 2020",
+    "experiences": [
+      "Collaborated with a team to deploy an application that lead to a 20% reduction of food waste in Philadelphia",
+      "Translated Figma designs and frameworks into a dynamic website"
+    ],
+    "imageSrc": "history/se_logo.png"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Pesso",
+    "imageSrc": "projects/pesso.png",
+    "description": "This is an money management application that handles multiple bank accounts",
+    "skills": ["React", "Express", "Node", "MySQL"],
+    "demo": "https://pesso.vercel.app/dashboard/overview",
+    "source": "https://github.com/AmaraU/Pesso"
+  },
+  {
+    "title": "CollabArt",
+    "imageSrc": "projects/Whale1.PNG",
+    "description": "This is an application used to view gigapixel artworks in detail, add annotations and share projects to other users.",
+    "skills": ["React", "AWS", "Lambda", "S3"],
+    "demo": "https://main.d2a0vdb4w3k11f.amplifyapp.com/",
+    "source": "https://github.com/GigaPixelViewer/amplify-gigapixel-viewer"
+  },
+  {
+    "title": "ARM",
+    "imageSrc": "projects/project.png",
+    "description": "This is the online web application front-end for ARM Microfinance Bank",
+    "skills": ["React",  "Node", "Express"],
+    "demo": "https://arm-vert.vercel.app/overview/dashboard",
+    "source": "https://github.com/AmaraU/ARM"
+  },
+  {
+    "title": "Attendance Form",
+    "imageSrc": "projects/project.png",
+    "description": "A simple CRUD Spring Boot application to log attendance in the office",
+    "skills": ["Spring Boot", "Java", "ThymeLeaf", "Spring Cloud"],
+    "demo": "https://github.com/AmaraU/AttendanceForm",
+    "source": "https://github.com/AmaraU/AttendanceForm"
+  },
+  {
+    "title": "VAT Collector",
+    "imageSrc": "projects/project.png",
+    "description": "This is a web application that identifies and calculates VAT collected based on daily transactions",
+    "skills": ["React", "Chart-js", "Node"],
+    "demo": "https://firs-vat-collector.vercel.app/signin",
+    "source": "https://github.com/AmaraU/VAT_Collector"
+  },
+  {
+    "title": "Ballistic",
+    "imageSrc": "projects/Ballistic.PNG",
+    "description": "A twist on a classic game, where the bricks also move and are trying to attack the ball. And the ball has a gun.",
+    "skills": ["Unity", "C#"],
+    "demo": "https://drexel0-my.sharepoint.com/:u:/g/personal/naa92_drexel_edu/EWeQ69HDbARNuUyFPUZ1VTABrYevVkH3L2RN84lZ-cK48w?e=pcgRWE",
+    "source": "https://github.com/AmaraU/Ballistic"
+  },
+  {
+    "title": "KuleanPay Website",
+    "imageSrc": "projects/kp.png",
+    "description": "This is the website for a mobile application for easier, safer money transfers.",
+    "skills": ["React", "HTML", "CSS", "Node"],
+    "demo": "https://kuleanpay.vercel.app/",
+    "source": "https://github.com/AmaraU/kuleanPay"
+  },
+  {
+    "title": "FifthLab Landing Page",
+    "imageSrc": "projects/fifthl.png",
+    "description": "This is a WIP to revamp the existing company website.",
+    "skills": ["React", "CSS", "HTML"],
+    "demo": "https://fifthlab-lp.vercel.app/",
+    "source": "https://github.com/AmaraU/landing-page"
+  }
+]
